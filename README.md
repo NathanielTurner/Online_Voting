@@ -10,5 +10,5 @@ varying races.
 * Wednesday 27th - 7 Hrs
 
 ### Actual time spent
-* Tuesday 26th -
-* Wednesday 27th -
+* Tuesday 26th - 6
+* Wednesday 27th - 12
